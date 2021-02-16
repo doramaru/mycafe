@@ -2,8 +2,16 @@ h1 {
   font-size: 24px;
   padding-left: 16px;
   border-left: 8px solid pink;
-  color:cornflowerblue;
+  color:#6495ed;
+    
+  }
+h2 {
+  font-size:20px;
+  padding-left:17px;
+  border-left:8px solid blue;
+  color:chocolate;
 }
+
 img {
   width: 200px;
 }
