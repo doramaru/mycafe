@@ -2,7 +2,14 @@ h1 {
   font-size: 24px;
   padding-left: 16px;
   border-left: 8px solid pink;
+  color:cornflowerblue;
 }
-.img {
-  width: 1px;
+img {
+  width: 200px;
+}
+p {
+  font-size:30px;
+  padding-left:40px;
+  color:black;
+  margin-top:-10px;
 }
