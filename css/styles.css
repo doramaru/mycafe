@@ -1,8 +1,9 @@
 h1 {
-  font-size: 24px;
-  padding-left: 16px;
-  border-left: 8px solid pink;
+  font-size: 100px;
+  padding-left: 25px;
+  border-left: 50px solid pink;
   color:#6495ed;
+  text-align: justify;
     
   }
 h2 {
