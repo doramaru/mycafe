@@ -4,6 +4,8 @@ h1 {
   border-left: 50px solid pink;
   color:#6495ed;
   text-align: justify;
+  box-shadow:10px 10px 10px green;
+  text-shadow:20px 20px 20px skyblue;
     
   }
 h2 {
@@ -28,3 +30,20 @@ p1{
   color:red;
   
 }
+
+#top > a {
+  text-decoration:none;
+  color:black;
+  font-weight:bold;
+  font-size:23px;
+  margin-left:300px;
+  
+  
+}
+#dora {
+  color:black;
+  font-size:30px;
+  
+}
+
+  
