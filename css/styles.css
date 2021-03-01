@@ -19,11 +19,12 @@ img {
   width: 200px;
 }
 p {
-  font-size:30px;
+  font-size:20px;
   padding-left:40px;
   color:black;
   margin-bottom:10px;
   text-align: justify;
+  font-weight:bold;
 }
 p1{
   background-color:skyblue;
@@ -42,7 +43,8 @@ p1{
 }
 #dora {
   color:black;
-  font-size:30px;
+  font-size:20px;
+  font-weight:bold;
   
 }
 
