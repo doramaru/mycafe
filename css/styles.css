@@ -53,6 +53,12 @@ h2 {
   border-radius:5px;
   border:5px solid purple;
 }
+
+[src*=ワイハ]  {
+  width: 200px;
+  border-radius:5px;
+  border:5px solid burlywood;
+}
 p {
   font-size:20px;
   padding-left:40px;
