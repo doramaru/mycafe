@@ -43,9 +43,8 @@
         'img/SLOT/seven.png',
         'img/SLOT/bell.png',
         'img/SLOT/cherry.png',
-        'img/沖縄2008/NEC_0487.JPG',
-        'img/沖縄2008/NEC_0495.JPG',
-        'img/雪遊び/NEC_0952.JPG',
+        'img/滑り台/NEC_0869.JPG',
+        'img/滑り台/NEC_1110.JPG',
         
       ];
       return images[Math.floor(Math.random() * images.length)];

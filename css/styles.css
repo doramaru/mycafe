@@ -15,8 +15,43 @@ h2 {
   color:chocolate;
 }
 
-img {
+[src*=グアム]  {
   width: 200px;
+  border-radius:5px;
+  border:5px solid green;
+}
+
+
+[src*=スキまる誕生]  {
+  width: 200px;
+  border-radius:5px;
+  border:5px solid red;
+}
+
+[src*=ゴキマル]  {
+  width: 200px;
+  border-radius:5px;
+  border:5px solid brown;
+}
+
+[src*=沖縄]  {
+  width: 200px;
+  border-radius:5px;
+  border:5px solid skyblue;
+}
+
+
+[src*=雪遊び]  {
+  width: 200px;
+  border-radius:5px;
+  border:5px solid #cff;
+}
+
+
+[src*=ドラたん]  {
+  width: 200px;
+  border-radius:5px;
+  border:5px solid purple;
 }
 p {
   font-size:20px;
@@ -27,17 +62,22 @@ p {
   font-weight:bold;
 }
 p1{
-  background-color:skyblue;
+  
   color:red;
   
+}
+li {
+  list-style:none;
 }
 
 #top > a {
   text-decoration:none;
+  
   color:black;
   font-weight:bold;
   font-size:23px;
-  margin-left:300px;
+  
+  
   
   
 }
@@ -105,5 +145,20 @@ main {
 
 .inactive {
   opacity: 0.5;
+}
+
+#slot {
+  height:80px;
+  line-height: 80px;
+  text-align:center;
+  font-size:25px;
+  font-weight:bold;
+  color:blue;
+  background-color: chocolate;
+  padding:0;
+  border:4px solid gold;
+  border-radius: 10px;
+  margin-left:100px;
+  margin-right:100px;
 }
   
