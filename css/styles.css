@@ -6,7 +6,7 @@ h1 {
   text-align: justify;
   box-shadow:10px 10px 10px green;
   text-shadow:20px 20px 20px skyblue;
-    
+    display:flex;
   }
 h2 {
   font-size:24px;
@@ -94,7 +94,7 @@ li {
   
 }
 body {
-  background: #bdc3c7;
+  background: burlywood;
   font-size: 16px;
   font-weight: bold;
   font-family: Arial, sans-serif;
@@ -170,5 +170,77 @@ main {
 
 img:hover {
   transform:scale(1.5);
+ 
 }
-  
+
+.do {
+  animation:heart 1s ease 0s  normal;
+}
+@keyframes heart {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform:scale(1.5);
+  }
+}
+
+.ra {
+  animation:heart 1s ease 1s  normal;
+}
+@keyframes heart {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform:scale(1.5);
+  }
+}
+
+.ma {
+  animation:heart 1s ease 2s  normal;
+}
+@keyframes heart {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform:scale(1.5);
+  }
+}
+
+.ru {
+  animation:heart 1s ease 3s  normal;
+}
+@keyframes heart {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform:scale(1.5);
+  }
+}
+
+.i {
+  animation:heart 1s ease 4s  normal;
+}
+@keyframes heart {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform:scale(1.5);
+  }
+}
+
+.ka {
+  animation:heart 1s ease 5s  normal;
+}
+@keyframes heart {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform:scale(1.5);
+  }
+}
