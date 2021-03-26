@@ -187,6 +187,7 @@ img:hover {
 
 .ra {
   animation:heart 1s ease 1s  normal;
+  color:#00f;
 }
 @keyframes heart {
   0% {
@@ -199,6 +200,7 @@ img:hover {
 
 .ma {
   animation:heart 1s ease 2s  normal;
+  color:#800000;
 }
 @keyframes heart {
   0% {
@@ -211,6 +213,7 @@ img:hover {
 
 .ru {
   animation:heart 1s ease 3s  normal;
+  color:#808000;
 }
 @keyframes heart {
   0% {
@@ -223,6 +226,7 @@ img:hover {
 
 .i {
   animation:heart 1s ease 4s  normal;
+  color:#008000;
 }
 @keyframes heart {
   0% {
@@ -235,6 +239,7 @@ img:hover {
 
 .ka {
   animation:heart 1s ease 5s  normal;
+  color:#ff00ff;
 }
 @keyframes heart {
   0% {
